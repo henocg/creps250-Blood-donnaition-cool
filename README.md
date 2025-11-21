@@ -5,6 +5,9 @@ Nous avons gagné le premier prix pour ce Hackathon au niveau national organisé
 # lien vers le dashboard
 https://creps250-blood-donnaition-cool.onrender.com/
 
+Identifiant : invite@gmail.com
+Mot de paase : 0000
+
 # 🩸 Tableau de Bord des Campagnes de Don de Sang
 
 ## 🎯 Aperçu du Projet
